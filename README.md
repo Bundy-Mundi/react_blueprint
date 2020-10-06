@@ -1,5 +1,5 @@
 <img src="https://cdn-images-1.medium.com/max/800/1*AoarrKQjCE0zVJkxl9za8Q.jpeg" height="400" width="100%" style="padding:30px; box-sizing: border-box;"/>
-<img  title="Firebase" src="https://lmn-blog.com/wp-content/uploads/2018/01/logo-stripe.png" height="400" width="100%" style="padding:30px; box-sizing: border-box;"/>
+<img  title="Firebase" src="https://lmn-blog.com/wp-content/uploads/2018/01/logo-stripe.png" height="300" width="100%" style="padding:30px; box-sizing: border-box;"/>
 
 # Twitter Clone with Firebase (No-Backend)
 
